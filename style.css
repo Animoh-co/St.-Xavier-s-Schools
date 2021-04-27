@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+#anouncement {
+    background: cornflowerblue;
+    height : 50px;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 25px;
+}
